@@ -97,7 +97,7 @@ The corpus is Biblical text only. It contains no modern vernacular, secular voca
   author       = {Sliwa, Hadiana and Hassani, Hossein},
   title        = {Machine Translation between English and Syriac (East Syriac Dialect) using Statistical Machine Learning},
   year         = {2026},
-  institution  = {University of Kurdistan Hewl\^er},
+  institution  = {University of Kurdistan Hewler},
 }
 ```
 
